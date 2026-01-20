@@ -17,7 +17,7 @@ If GitHub Pages is enabled, view the themes directly:
 | **Clubs** | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/clubs/) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/clubs/about.html) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/clubs/events.html) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/clubs/gallery.html) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/clubs/contact.html) |
 | **Tricolore** 🇮🇹 | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/tricolore/) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/tricolore/about.html) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/tricolore/events.html) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/tricolore/gallery.html) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/tricolore/contact.html) |
 
-> **To enable GitHub Pages:** Repository Settings → Pages → Source: `main` branch, folder: `/docs/rebuild`
+> **To enable GitHub Pages:** Repository Settings → Pages → Source: `main` branch, folder: `/ (root)`
 
 ### Option 2: HTMLPreview (No Setup Required)
 
@@ -25,12 +25,12 @@ Use [htmlpreview.github.io](https://htmlpreview.github.io/) to render any HTML f
 
 | Theme | Preview Link |
 |-------|--------------|
-| **Velocity** | [▶️ Preview](https://htmlpreview.github.io/?https://github.com/bertalan/motoclubsite_prj/blob/main/docs/rebuild/theme_examples/velocity/index.html) |
-| **Heritage** | [▶️ Preview](https://htmlpreview.github.io/?https://github.com/bertalan/motoclubsite_prj/blob/main/docs/rebuild/theme_examples/heritage/index.html) |
-| **Terra** | [▶️ Preview](https://htmlpreview.github.io/?https://github.com/bertalan/motoclubsite_prj/blob/main/docs/rebuild/theme_examples/terra/index.html) |
-| **Zen** | [▶️ Preview](https://htmlpreview.github.io/?https://github.com/bertalan/motoclubsite_prj/blob/main/docs/rebuild/theme_examples/zen/index.html) |
-| **Clubs** | [▶️ Preview](https://htmlpreview.github.io/?https://github.com/bertalan/motoclubsite_prj/blob/main/docs/rebuild/theme_examples/clubs/index.html) |
-| **Tricolore** 🇮🇹 | [▶️ Preview](https://htmlpreview.github.io/?https://github.com/bertalan/motoclubsite_prj/blob/main/docs/rebuild/theme_examples/tricolore/index.html) |
+| **Velocity** | [▶️ Preview](https://htmlpreview.github.io/?https://github.com/bertalan/motoclubsite_prj/blob/main/theme_examples/velocity/index.html) |
+| **Heritage** | [▶️ Preview](https://htmlpreview.github.io/?https://github.com/bertalan/motoclubsite_prj/blob/main/theme_examples/heritage/index.html) |
+| **Terra** | [▶️ Preview](https://htmlpreview.github.io/?https://github.com/bertalan/motoclubsite_prj/blob/main/theme_examples/terra/index.html) |
+| **Zen** | [▶️ Preview](https://htmlpreview.github.io/?https://github.com/bertalan/motoclubsite_prj/blob/main/theme_examples/zen/index.html) |
+| **Clubs** | [▶️ Preview](https://htmlpreview.github.io/?https://github.com/bertalan/motoclubsite_prj/blob/main/theme_examples/clubs/index.html) |
+| **Tricolore** 🇮🇹 | [▶️ Preview](https://htmlpreview.github.io/?https://github.com/bertalan/motoclubsite_prj/blob/main/theme_examples/tricolore/index.html) |
 
 ---
 
