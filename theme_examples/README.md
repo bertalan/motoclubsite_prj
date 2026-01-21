@@ -17,7 +17,7 @@ If GitHub Pages is enabled, view the themes directly:
 | **Clubs** | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/clubs/) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/clubs/about.html) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/clubs/events.html) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/clubs/gallery.html) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/clubs/contact.html) |
 | **Tricolore** 🇮🇹 | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/tricolore/) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/tricolore/about.html) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/tricolore/events.html) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/tricolore/gallery.html) | [🔗](https://bertalan.github.io/motoclubsite_prj/theme_examples/tricolore/contact.html) |
 
-> **To enable GitHub Pages:** Repository Settings → Pages → Source: `main` branch, folder: `/docs/rebuild`
+> **To enable GitHub Pages:** Repository Settings → Pages → Source: `main` branch, folder: `/ (root)`
 
 ### Option 2: HTMLPreview (No Setup Required)
 

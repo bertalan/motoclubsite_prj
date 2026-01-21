@@ -29,7 +29,7 @@ You can preview all 6 themes directly in your browser using GitHub Pages:
 | **Clubs** | Premium Italian | [🔗 View](https://bertalan.github.io/motoclubsite_prj/theme_examples/clubs/) |
 | **Tricolore** | Italian Pride 🇮🇹 | [🔗 View](https://bertalan.github.io/motoclubsite_prj/theme_examples/tricolore/) |
 
-> **Note:** To enable GitHub Pages, go to repository Settings → Pages → Source: "Deploy from a branch" → Branch: `main` / `docs/rebuild`
+> **Note:** To enable GitHub Pages, go to repository Settings → Pages → Source: "Deploy from a branch" → Branch: `main` / `/ (root)`
 
 ### Alternative: View HTML files directly
 
@@ -40,7 +40,7 @@ If GitHub Pages is not enabled, you can still view the HTML source:
 3. Click on `index.html`
 4. Click the **Raw** button to see the source, or use [htmlpreview.github.io](https://htmlpreview.github.io/):
    ```
-   https://htmlpreview.github.io/?https://github.com/bertalan/motoclubsite_prj/blob/main/docs/rebuild/theme_examples/velocity/index.html
+   https://htmlpreview.github.io/?https://github.com/bertalan/motoclubsite_prj/blob/main/theme_examples/velocity/index.html
    ```
 
 ### Documentation Structure
